@@ -1,0 +1,22 @@
+{
+  "name": "basic-html-starter",
+  "version": "1.0.0",
+  "description": "A Basic HTML Starter kit with browser-sync for livereload",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Browser-sync",
+    "Gulp",
+    "HTML",
+    "CSS"
+  ],
+  "author": "Kevin Guebert",
+  "license": "ISC"
+}
